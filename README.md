@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Alayham Abdulwahab
 
-<!--
-**xAlayham/xAlayham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computing Science student at the University of Aberdeen (graduating 2028), looking for a software internship. I like building things end to end, from the database and API to the interface people actually use.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Habit Tracker](https://github.com/xAlayham/habit-tracker-web)**: a React + TypeScript app that turns big goals into small daily, weekly, monthly and yearly habits, with streaks to keep you consistent. [Live demo](https://habit-tracker-web-alpha.vercel.app)
+
+**[Habit Tracker API](https://github.com/xAlayham/habit-tracker-api)**: the FastAPI backend behind it, with JWT authentication, per-user data isolation and period-based streak logic, covered by automated tests and CI. [Live docs](https://habit-tracker-api-8zgs.onrender.com/docs)
+
+**[File Organiser](https://github.com/xAlayham/file-organiser)**: a Python command-line tool that tidies cluttered folders like Downloads, sorting files by type and detecting duplicates via SHA-256 hashes, with dry-run and undo so nothing gets lost.
+
+**In progress:** an AI habit coach that analyses routine data and gives personalised coaching.
+
+## Tech
+
+- **Languages:** Python, TypeScript, Java
+- **Backend and data:** FastAPI, SQLAlchemy, JWT authentication, MySQL, SQLite
+- **Frontend:** React, Vite, React Router
+- **Tooling:** Git, GitHub Actions, pytest, unittest, Docker, Linux
+- **Security:** cybersecurity fundamentals
+
+## Experience
+
+**IT and Cybersecurity Intern** (Dec 2025 – Jan 2026)
+- Developed an Active Directory security assessment questionnaire covering encryption standards, privileged access, defensive configuration and backup/recovery readiness.
+- Researched Windows domain hardening: legacy protocol deprecation (NTLMv1, LM hashes, SMBv1), Kerberos encryption, SMB/LDAP signing and tiered administration.
+- Shadowed sysadmin and helpdesk teams, gaining exposure to EDR tooling (CrowdStrike) and enterprise network operations.
+
+**Student Representative**, Physical Sciences and Engineering (foundation year)
+
+## Outside of code
+
+Most of my free time goes to books and music. I also enjoy hardware, especially custom PC builds and custom keyboards.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/alayham-abdulwahab-5989a1374/) · [alayhamaw@gmail.com](mailto:alayhamaw@gmail.com)
