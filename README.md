@@ -10,9 +10,13 @@ I'm a Computing Science student at the University of Aberdeen (graduating 2028),
 
 **[Habit Coach AI](https://github.com/xAlayham/habit-coach-ai)**: an AI coach built into the Habit Tracker. A tool-calling Claude agent reads each user's habit data through the existing API, grounds its advice in habit-formation research using RAG with inline citations, and streams replies over SSE. Includes a hand-written rate limiter and LRU cache, a grounding evaluation, and 143 tests, shipped as a Docker image on Render.
 
+**[ASUS Dashboard](https://github.com/xAlayham/ASUS-Dashboard)**: an open-source Armoury Crate alternative for ASUS laptops on Linux. Controls power modes, GPU switching, refresh rate, keyboard RGB and battery charge limits, and shows live sensor readings. Released as v1.0.0 under the MIT licence.
+
 **[File Organiser](https://github.com/xAlayham/file-organiser)**: a Python command-line tool that tidies cluttered folders like Downloads, sorting files by type and detecting duplicates via SHA-256 hashes, with dry-run and undo so nothing gets lost.
 
-**In progress:** a Linux hardware dashboard for ASUS laptops, controlling battery charge limits, keyboard lighting, GPU modes and more.
+## Currently
+
+**Farmily 2.0**: building a farmer-focused app for real clients at the University of Aberdeen as part of a seven-person team, where I'm the client representative leading communication with the clients.
 
 ## Tech
 
@@ -26,6 +30,7 @@ I'm a Computing Science student at the University of Aberdeen (graduating 2028),
 ## Experience
 
 **IT and Cybersecurity Intern** (Dec 2025 – Jan 2026)
+
 - Developed an Active Directory security assessment questionnaire covering encryption standards, privileged access, defensive configuration and backup/recovery readiness.
 - Researched Windows domain hardening: legacy protocol deprecation (NTLMv1, LM hashes, SMBv1), Kerberos encryption, SMB/LDAP signing and tiered administration.
 - Shadowed sysadmin and helpdesk teams, gaining exposure to EDR tooling (CrowdStrike) and enterprise network operations.
@@ -38,4 +43,4 @@ Most of my free time goes to books and music. I also enjoy hardware, especially 
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/alayham-abdulwahab-5989a1374/) · [alayhamaw@gmail.com](mailto:alayhamaw@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/alayham-abdulwahab-5989a1374/) · <alayhamaw@gmail.com>
